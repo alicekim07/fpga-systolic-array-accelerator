@@ -1,0 +1,27 @@
+# Vivado generated directories
+vivado/project_top/project_top.cache/
+vivado/project_top/project_top.gen/
+vivado/project_top/project_top.hw/
+vivado/project_top/project_top.ip_user_files/
+vivado/project_top/project_top.runs/
+vivado/project_top/project_top.sim/
+
+# Logs
+*.jou
+*.log
+*.str
+
+# Reports
+*.rpt
+*.summary
+
+# Bitstreams
+*.bit
+*.bin
+
+# Temporary
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
