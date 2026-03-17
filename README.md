@@ -155,7 +155,7 @@ fpga-ai-accelerator-dev
 
 Detailed architecture, experiments, and performance analysis are available in:
 
-👉 [`docs/report.pdf`](docs/report.pdf)
+[`docs/report.pdf`](docs/report.pdf)
 
 ---
 
@@ -163,7 +163,7 @@ Detailed architecture, experiments, and performance analysis are available in:
 
 Selected engineering challenges and solutions encountered during development are documented in:
 
-👉 [`docs/development/accelerator_development_log.md`](docs/development/accelerator_development_log.md)
+[`docs/development/accelerator_development_log.md`](docs/development/accelerator_development_log.md)
 
 ---
 
