@@ -121,7 +121,7 @@ The system was iteratively optimized through multiple stages:
 
 1. **SW accumulation** – initial software-based accumulation
 2. **HW accumulation** – moved accumulation into hardware
-3. **Buffer allocation optimization** – reduced redundant memory access
+3. **Host-side buffer allocation and reuse optimization** – reduced redundant memory operations
 4. **Transpose removal** – eliminated unnecessary data layout transformations
 5. **DMA burst size exploration** – tested memory throughput improvements
 
